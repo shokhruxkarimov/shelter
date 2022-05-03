@@ -10,6 +10,10 @@ function inAdditionButton() {
     window.open('#', '_blank');
 }
 
+function buttonToOurFriendsPage() {
+  window.open('ourPets.html')
+}
+
 
 
 // SLIDER MAIN
