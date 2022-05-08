@@ -89,9 +89,6 @@ header{
 .nav_links li a {
 	transition: all 0.3s ease 0;
 }
-.nav_links li a:hover {
-	color: red;
-}
 
 
 /*Pets start*/
